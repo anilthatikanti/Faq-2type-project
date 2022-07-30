@@ -1,0 +1,34 @@
+/* Write your code here. */
+.list {
+  list-style-type: none;
+  width: 600px;
+  padding: 0px 30px;
+  border: 1px solid #9aa5b1;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.listUpper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.openAnswer {
+  height: 20px;
+  width: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  border-width: 0px;
+}
+.closeAnswer {
+  height: 20px;
+  width: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  outline: none;
+  border-width: 0px;
+}
